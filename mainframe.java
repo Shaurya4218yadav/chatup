@@ -73,7 +73,7 @@ public class mainframe extends JFrame {
 
         setTitle("Welcome");
         setSize(500,600);
-        setMinimumSize(new Dimension(300, 400));
+        setMinimumSize(new Dimension(300, 500));
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setVisible(true);
     }
